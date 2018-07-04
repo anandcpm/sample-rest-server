@@ -1,4 +1,4 @@
-library 'github.com/schottsfired/pipeline-libraries'
+library 'sample-shared-pipeline-libraries'
 pipeline {
 
 	agent any
